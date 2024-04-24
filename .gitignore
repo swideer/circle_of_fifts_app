@@ -1,6 +1,5 @@
-.gitignore
 __pycache__
 build
-dist/main.app
-main.spec
+*.spec
 .DS_Store
+dist
